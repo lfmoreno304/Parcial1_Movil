@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796771951459",
+    "firebase_url": "https://parcialmovil1-decfb.firebaseio.com",
+    "project_id": "parcialmovil1-decfb",
+    "storage_bucket": "parcialmovil1-decfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796771951459:android:4afe65797aff430aa5a956",
+        "android_client_info": {
+          "package_name": "com.example.parcial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796771951459-or1ieqmd9f162htas22jekg5guqakn4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parcial1",
+            "certificate_hash": "abe8fbd4903699d6f1567b01148c0b20fe0a29af"
+          }
+        },
+        {
+          "client_id": "796771951459-2u4jn5smq7lfqsjrdgrq4805obqrajpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EsxofPIS8J_fiKpS0xKp1lnJsqeOmwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796771951459-2u4jn5smq7lfqsjrdgrq4805obqrajpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
